@@ -6,4 +6,6 @@
 <div align="center">
     <p> Atividade usando Design Patterns (GoF), usando o padrão de construção também chamado de Factory Method </p>
     <p> Feito por: Matheus Lopes  </p>
+    <p> Usando a IDE Eclipse </p>
+    <p> Para usar o programa jogue o arquivo desse repositório na pasta do Eclipse (C:\Users\User\eclipse-workspace)</p>
 </div>
