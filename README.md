@@ -1,6 +1,6 @@
 <h1 align="Center"> Factory Method em Java </h1>
 <div align="center">
-  <a href=""><img src="" height="450" weight="200" alt="GoF></a>
+  <a href=""><img src="" height="450" weight="200" alt="GoF"></a>
 </div><hr>
 
 <div align="center">
