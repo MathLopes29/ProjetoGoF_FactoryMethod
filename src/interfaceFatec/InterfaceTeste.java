@@ -74,8 +74,8 @@ public interface InterfaceTeste {
 	
 	public static void Escolha6(Vestibulando Opp6) {	
 		System.out.println(Opp6.ExibeEtec("ETEC do Campus da Fatec Zona Sul"));
-		System.out.println("Nome do Vestibulando: " + Opp6.DigiteNome ()); 
-		System.out.println("\nRA: " + Opp6.DigiteRA ());
+		System.out.println("\nNome do Vestibulando: " + Opp6.DigiteNome ()); 
+		System.out.println("RA: " + Opp6.DigiteRA ());
 	}
 		
 	public static void main (String []args) {
